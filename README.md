@@ -17,8 +17,8 @@ I'm a computer engineering student at the University of Buenos Aires, and concur
 
 ## Connect with me:
 
-<p align = "center">
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/danielafernandezlaura/)
+<p>
+<a href = "https://www.linkedin.com/in/danielafernandezlaura/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 #### IDEs
