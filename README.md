@@ -6,7 +6,7 @@
 
 I'm a computer engineering student at the University of Buenos Aires, and concurrently, I'm enrolled in Full Stack Web Development courses.
 
-#### ⚡ Languages and Tools:
+### ⚡ Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
@@ -29,7 +29,7 @@ I'm a computer engineering student at the University of Buenos Aires, and concur
 </div>
 
 
-#### Operating Systems:
+### Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
@@ -37,7 +37,7 @@ I'm a computer engineering student at the University of Buenos Aires, and concur
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariana-seok&layout=compact&hide=html&theme=synthwave&count_private=true" alt="ariana-seok" />
 </p>
 
-#### 😄 Connect with me:
+### 😄 Connect with me:
 
 <p>
 <a href = "https://www.linkedin.com/in/danielafernandezlaura/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
